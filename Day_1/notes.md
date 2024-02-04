@@ -1,0 +1,4 @@
+# Takeaways
+- print()
+- input()
+- len()
