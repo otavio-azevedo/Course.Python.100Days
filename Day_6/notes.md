@@ -1,0 +1,2 @@
+# Takeaways
+- while loop
